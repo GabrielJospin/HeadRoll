@@ -9,4 +9,4 @@ color 40
 @echo    ***                                         ***
 @echo    ***********************************************
 @echo.
-start "wmplayer.exe" "..\RickRoll_3.mp4"
+start "mplayer.exe" "..\RickRoll_3.mp4"
