@@ -22,6 +22,7 @@ body {
 }
 
 .disquete-img {
+  width: 70%;
 }
 
 .orange-arrow {
@@ -33,4 +34,8 @@ body {
 .tree-arrow {
   display: block;
   margin: auto;
+}
+
+.super-nintendo-img {
+  width: 80%;
 }
