@@ -1,0 +1,36 @@
+h1 {
+  color: #fff;
+}
+
+.button {
+  padding: 3%;
+  height: 80px;
+  background-color: #00ffff;
+}
+
+.click-button {
+  background-color: #ff0000;
+  padding: 3%;
+  margin-top: 20px;
+  height: 80px;
+}
+
+body {
+  background-color: #02029c;
+  text-align: center;
+  color: #fcf000;
+}
+
+.disquete-img {
+}
+
+.orange-arrow {
+  display: block;
+  margin: auto;
+  height: 600px;
+}
+
+.tree-arrow {
+  display: block;
+  margin: auto;
+}
